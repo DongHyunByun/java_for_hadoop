@@ -2,3 +2,9 @@
 /.idea
 /build
 /gradle
+/out
+build.gradle
+gradlew
+bradlew.bat
+settings.gradle
+test.iml
